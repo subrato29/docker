@@ -1,3 +1,10 @@
+# What is a Docker Image and Container?
+```
+Docker images are the template use to create docker containers.
+Container is a running instance of an image.
+
+```
+
 # What is a Docker image?
 ```
 Images are read-only templates containing instructions for creating a container. A Docker image creates containers to run on the Docker platform.
