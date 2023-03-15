@@ -60,4 +60,9 @@ How to remove a dangling image
 	- means remove all the images unassociated with any container 
 
 To make whole all docker container down
-- docker-compose down
+- Go to the directory
+	- docker-compose down
+
+To make all docker containers up
+- Go to the directory
+	- docker-compose up -d
