@@ -58,3 +58,6 @@ Dangling image
 How to remove a dangling image
 - docker image prune -a
 	- means remove all the images unassociated with any container 
+
+To make whole all docker container down
+- docker-compose down
